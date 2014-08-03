@@ -1,9 +1,5 @@
 # 凌霄
 
-```
-:tag: 藤本 夏季
-```
-
 ## 基本信息
 
 - 拉丁名: Campsis grandiflora

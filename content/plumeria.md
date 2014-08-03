@@ -17,7 +17,9 @@
 - 繁殖: 种子或扦插都可. 看样子比较容易.
 
 ![pink-plumeria](https://cloud.githubusercontent.com/assets/36899/3790180/1e657d98-1aed-11e4-8a0d-d1ef3a1ed8eb.jpg)
+
 ![pink-plumeria](https://cloud.githubusercontent.com/assets/36899/3790217/823032c0-1af0-11e4-9999-a21748d8e53d.jpg)
+
 ## 故事
 
 ```
