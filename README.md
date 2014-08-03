@@ -2,10 +2,8 @@
 
 one kind of flower per week
 
-```
-- campsis-grandiflora.md
-- jacaranda.md
-- calla-lily.md
-- clematis-florida.md
-- plumeria.md
-```
+- ./content/campsis-grandiflora.md
+- ./content/jacaranda.md
+- ./content/calla-lily.md
+- ./content/clematis-florida.md
+- ./content/plumeria.md
