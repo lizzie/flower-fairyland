@@ -7,4 +7,5 @@ one kind of flower per week
 - jacaranda.md
 - calla-lily.md
 - clematis-florida.md
+- plumeria.md
 ```
